@@ -16,7 +16,7 @@ I’m diving into **automation** with the goal of enhancing **business intellige
 ---
 
 ### 🏅 Certifications:
-I hold several certifications in cybersecurity, which you can explore in detail on my [Credly profile](https://www.credly.com/users/carlos-miranda.37a76a3a).
+I hold several certifications in Cybersecurity, Business Intelligence, and other stuff you can see on my [Credly profile](https://www.credly.com/users/carlos-miranda.37a76a3a).
 
 ---
 
