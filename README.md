@@ -2,16 +2,17 @@
 
 - 🌟 I’m passionate about technology, problem-solving, and continuous learning.
 - 🔑 I have a few certifications in **cybersecurity**, but I’m still growing my skills and experience in this exciting field.
-- 💻 I’m currently exploring **automation tools and techniques** to streamline processes for **business intelligence** and data-driven decision-making.
+- 🤖 I’m actively learning how to leverage AI tools to enhance workflows across cybersecurity, automation, forensic data recovery, and data analysis.
 - 📚 Always eager to learn and collaborate—feel free to reach out!
 
 ---
 
 ### 🌱 What I’m Currently Learning:
-I’m diving into **automation** with the goal of enhancing **business intelligence** workflows. This includes:
-- Using **Python** for data extraction, transformation, and analysis.
-- Leveraging **Linux** scripting to automate repetitive tasks and improve efficiency.
-- Exploring tools like **Power BI**, **Tableau**, and **SQL** to visualize and interpret data effectively.
+I’m exploring how AI + automation can improve efficiency, investigation, and decision-making. Current areas of focus include:
+- 🧠 Using AI-assisted tools to support cybersecurity analysis, threat investigation, and workflow optimization.
+- ⚙️ Building automation pipelines using Python and Linux scripting to reduce repetitive tasks.
+- 📊 Using SQL, Power BI, and Tableau to analyze and visualize data for clearer insights and better decisions.
+- 🐍 Strengthening Python skills for data extraction, transformation, and analysis (ETL).
 
 ---
 
@@ -26,7 +27,7 @@ I hold several certifications in Cybersecurity, Business Intelligence, and other
 ---
 
 ### Fun Fact:
-- I believe automation is the key to unlocking the full potential of business intelligence! 🤖📊
+- I believe AI + automation are powerful tools for unlocking smarter cybersecurity and business intelligence workflows 🤖📊
 <!---
 delejos/delejos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
